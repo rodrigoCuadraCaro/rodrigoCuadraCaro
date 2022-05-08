@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin, C#**
 
-- 📫 How to reach me **rodrigo.ignacio@cuadra.se**
+- 📫 How to reach me **rodrigoignacio@cuadra.se**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
