@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">Programming student, musician, sports fan. Constantly learning, trying to do better. LAM Game Studios Game Designer.</h3>
+<h3 align="center">Software engineer student, musician, sports fan. Constantly learning, trying to do better. LAM Game Studios Game Designer.</h3>
 
 - 🌱 I’m currently learning **Kotlin, C#**
 
