@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">Software engineer student, musician, sports fan. Constantly learning, trying to do better.</h3>
 
-- 🌱 I’m currently learning **Kotlin, C#**
+- 🌱 I’m currently learning **Kotlin, Dart**
 
 - 📫 How to reach me **rodrigoignacio@cuadra.se**
 
