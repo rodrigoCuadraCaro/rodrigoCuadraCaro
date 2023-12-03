@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Dart**
 
-- 📫 How to reach me **rodrigoignacio@cuadra.se**
+- 📫 How to reach me **rodrigo.cuadra.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
